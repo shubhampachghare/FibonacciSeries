@@ -1,0 +1,15 @@
+C:\RFP-231\Practice\Fibonacci Series\bin\Debug\net6.0\Fibonacci Series.exe
+C:\RFP-231\Practice\Fibonacci Series\bin\Debug\net6.0\Fibonacci Series.deps.json
+C:\RFP-231\Practice\Fibonacci Series\bin\Debug\net6.0\Fibonacci Series.runtimeconfig.json
+C:\RFP-231\Practice\Fibonacci Series\bin\Debug\net6.0\Fibonacci Series.dll
+C:\RFP-231\Practice\Fibonacci Series\bin\Debug\net6.0\Fibonacci Series.pdb
+C:\RFP-231\Practice\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.csproj.AssemblyReference.cache
+C:\RFP-231\Practice\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP-231\Practice\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.AssemblyInfoInputs.cache
+C:\RFP-231\Practice\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.AssemblyInfo.cs
+C:\RFP-231\Practice\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.csproj.CoreCompileInputs.cache
+C:\RFP-231\Practice\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.dll
+C:\RFP-231\Practice\Fibonacci Series\obj\Debug\net6.0\refint\Fibonacci Series.dll
+C:\RFP-231\Practice\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.pdb
+C:\RFP-231\Practice\Fibonacci Series\obj\Debug\net6.0\Fibonacci Series.genruntimeconfig.cache
+C:\RFP-231\Practice\Fibonacci Series\obj\Debug\net6.0\ref\Fibonacci Series.dll
