@@ -2,6 +2,7 @@
 using PerfectNumber;
 using PrimeNumber;
 using ReverseNumber;
+using CouponNumber;
 public class Program
 {
     public static void Main(string[] args)
@@ -17,10 +18,13 @@ public class Program
 
         PrimeNumber1 obj2 = new PrimeNumber1();
         obj2.Prime();
-        */
+        
 
         ReverseNumber1 obj4 = new ReverseNumber1();
-        obj4.CheckPalindrome();
+        obj4.CheckPalindrome(); */
+
+        Coupon obj = new Coupon();
+        obj.GetCouponNum();
     }
 }
 
