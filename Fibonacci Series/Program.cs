@@ -1,6 +1,7 @@
 ﻿using Fibonacci_Series;
 using PerfectNumber;
 using PrimeNumber;
+using ReverseNumber;
 public class Program
 {
     public static void Main(string[] args)
@@ -12,10 +13,14 @@ public class Program
 
         PerfectNumber1 obj1 = new PerfectNumber1();
         obj1.number();
-        */
+        
 
         PrimeNumber1 obj2 = new PrimeNumber1();
         obj2.Prime();
+        */
+
+        ReverseNumber1 obj4 = new ReverseNumber1();
+        obj4.CheckPalindrome();
     }
 }
 
